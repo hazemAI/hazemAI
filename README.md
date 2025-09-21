@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-	<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-00BFFF.svg?logo=wind&logoColor=white">
+	<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-white.svg?style=for-the-badge&logoColor=black">
 	<img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
 	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
