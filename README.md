@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Programming languages
 
-> <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp" alt="Programming Languages"/>
   </a>
