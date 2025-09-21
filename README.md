@@ -44,9 +44,9 @@
 </p>
 
 <p align="center">
-	<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-white.svg?style=for-the-badge&logoColor=black">
+	<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-00BFFF.svg?style=for-the-badge&logo=wind&logoColor=white">
 	<img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
-	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white&style=for-the-badge">
 	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
 	<img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white">
 	<img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
