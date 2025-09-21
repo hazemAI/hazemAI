@@ -11,9 +11,9 @@
   <br>
 
 
-## 🛠️ My tools
+## 🛠️ My Tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 Programming Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-### 🧰 Frameworks, Technologies and libraries
+### 🧰 Frameworks, Technologies and Libraries
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@
 <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
 </p>
 
-### 💻 Developer tools
+### 💻 Developer Tools
 
 <p align="center">
 	<a href="https://skillicons.dev">
