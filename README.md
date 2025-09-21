@@ -58,22 +58,10 @@
 
 ## GitHub Analytics:
 
-<!-- Streak Status-->
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=hazemAI&theme=highcontrast" alt="GitHub Streak" /</p>
-
-</details>
-
-<!-- Contributions Stats-->
-<details><summary><h3>💻 Contribution Stats</h3></summary>
-
----
+<p align="center"><img src="https://streak-stats.demolab.com?user=hazemAI&theme=highcontrast" alt="GitHub Streak" /
+</p>
 
 <p align="center">
 	<img alt="hazemAI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazemAI&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 <br/>
 </p>
-</details>
