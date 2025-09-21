@@ -1,5 +1,5 @@
 <!-- My Name -->
-<h1 align="center">Hi there 👋, I'm Adham Allam</h1>
+<h1 align="center">Hi there 👋, I'm Hazem Khaled</h1>
 
 <!-- Typing -->
 <div align="center">
@@ -357,13 +357,3 @@
 
 <br/>
 </details>
-
-<!-- Snake Eating Contributions -->
-<h3>🐍 Snake Eating my Contributions</h3>
-
----
-
-<p aligh="center">
-<img src="https://raw.githubusercontent.com/Ad7amstein/Ad7amstein/output/snake.svg" alt="Snake animation" />
-<br/>
-</p>
