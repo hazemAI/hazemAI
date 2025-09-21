@@ -28,8 +28,6 @@
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,postgres,fastapi" alt="Frameworks and Libraries"/>
   </a>
 	&emsp;
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
 <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white">
 <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
