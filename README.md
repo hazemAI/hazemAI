@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,sql,java" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java" alt="Programming Languages"/>
   </a>
 </p>
 
@@ -27,7 +27,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mongodb,postgres,fastapi" alt="Frameworks and Libraries"/>
   </a>
-	&emsp;
+<!-- 	&emsp; -->
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
 <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white">
 <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
@@ -38,7 +38,7 @@
 
 <p align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=windows,linux,git,github,docker,vscode,cursor,windsurf" alt="Software and tools"/>
+		<img src="https://skillicons.dev/icons?i=windows,linux,git,github,docker,vscode" alt="Software and tools"/>
 	</a>
 </p>
 
