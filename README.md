@@ -63,5 +63,4 @@
 
 <p align="center">
 	<img alt="hazemAI's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hazemAI&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
-<br/>
 </p>
