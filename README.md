@@ -8,8 +8,6 @@
 - 👨‍💻 I love `Exploring Generative AI and its Applications`.
 - 🔭 I'm currently learning `AI Engineering`.
 - This is <a href="https://drive.google.com/file/d/1vlNSCwerIGg98m5-XnqfjkZ-v53WndBL/view?usp=drive_link">MY RESUME<a>.
-  <br>
-
 
 ## 🛠️ My Tools
 
@@ -52,47 +50,6 @@
 	<img alt="Lightning AI" src="https://img.shields.io/badge/Lightning%20AI-792EE5.svg?logo=lightning&logoColor=white">
 </p>
 
-## My Repositories
-
-<a href="https://github.com/hazemAI/Deep-Facial-Recognition">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Deep-Facial-Recognition&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/idea_paraphrase_refinement">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=idea_paraphrase_refinement&theme=radical" />
-</a>
-
-<a href="https://github.com/Fawzy-AI-Explorer/Quiz-Generator">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Fawzy-AI-Explorer&repo=Quiz-Generator&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/micrograd">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=micrograd&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/Market-Price-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Market-Price-Prediction&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/Market-Price-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Market-Price-Prediction&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/Disease-Prediction">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Disease-Prediction&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/Logistic_Regression-Breast_Cancer_Diagnostic">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Logistic_Regression-Breast_Cancer_Diagnostic&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/Linear_Regression-E-commerce">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=Linear_Regression-E-commerce&theme=radical" />
-</a>
-
-<a href="https://github.com/hazemAI/printf">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=hazemAI&repo=printf&theme=chartreuse-dark" />
-</a>
 
 
 
