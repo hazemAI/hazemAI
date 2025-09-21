@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Programming languages
 
-<p align="center">
+> <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,java" alt="Programming Languages"/>
   </a>
@@ -30,6 +30,7 @@
 <!-- 	&emsp; -->
 <img alt="LangChain" src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green">
 <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-0A0A0A.svg?logo=langgraph&logoColor=white">
+<img alt="Google Gemini" src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=white">
 <img alt="LLaMA-Factory" src="https://img.shields.io/badge/LLaMA--Factory-3C3C3C.svg?logo=llama&logoColor=white">
 <img alt="Ollama" src="https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white">
 </p>
@@ -43,6 +44,7 @@
 </p>
 
 <p align="center">
+	<img alt="Windsurf" src="https://img.shields.io/badge/Windsurf-00BFFF.svg?logo=wind&logoColor=white">
 	<img alt="Cursor" src="https://img.shields.io/badge/Cursor-1C1E21.svg?logo=cursor&logoColor=white">
 	<img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
 	<img alt="Colab Notebook" src="https://img.shields.io/badge/colab-notebook-yellow">
