@@ -98,7 +98,7 @@
 ## GitHub Analytics:
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=hazemAI" alt="GitHub Streak"/>
+	<img src="https://streak-stats.demolab.com?user=hazemAI&theme=highcontrast" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
